@@ -43,5 +43,5 @@ Hello everyone, I am a Software engineer with 4 years of professional experience
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/perkangram6"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/perkangram6"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a></br>
 <a href="https://paypal.me/perkangram"><img src="https://pngimg.com/uploads/paypal/paypal_PNG3.png" width="200" /></a>
